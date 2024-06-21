@@ -7,3 +7,7 @@ Once an internet newbie, I've evolved into a passionate tech enthusiast who love
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions, suggestions, or just want to chat about technology. As an amateur eager to learn new things, I'm always excited to connect with fellow enthusiasts and developers.
 
 Happy coding! 🚀
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngocjohn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ngocjohn&theme=tokyonight&hide_border=true)
