@@ -10,6 +10,7 @@ Happy coding! 🚀
 
 ---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngocjohn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ngocjohn&theme=tokyonight&hide_border=true) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngocjohn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ngocjohn&theme=tokyonight&hide_border=true) 
+
 
