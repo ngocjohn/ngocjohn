@@ -10,7 +10,7 @@ Happy coding! 🚀
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngocjohn&theme=tokyonight&show_icons=true&hide_border=true&card_width=800&card_height=250&count_private=true)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ngocjohn&theme=tokyonight&hide_border=true&card_width=800&card_height=250) 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngocjohn&theme=transparent&show_icons=truet&hide_border=true&card_width=800&card_height=250&count_private=true)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ngocjohn&theme=transparent&hide_border=true&card_width=800&card_height=250&count_private=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocjohn&layout=compact&theme=transparent&hide_border=true&count_private=true&card_width=800&card_height=250)](https://github.com/anuraghazra/github-readme-stats)
 
