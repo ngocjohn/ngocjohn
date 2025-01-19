@@ -10,7 +10,7 @@ Happy coding! 🚀
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngocjohn&theme=transparent&show_icons=truet&hide_border=true&card_width=800&card_height=250&count_private=true)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ngocjohn&theme=transparent&hide_border=true&card_width=800&card_height=250&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocjohn&layout=compact&theme=transparent&hide_border=true&count_private=true&card_width=800&card_height=250)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngocjohn&theme=transparent&show_icons=true&hide_border=true&count_private=true&hide_title=true&card_width=800&rank_icon=default&text_bold=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngocjohn&theme=transparent&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=800&stroke=634EEB7A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocjohn&layout=compact&theme=transparent&hide_border=true&count_private=true&card_width=800&hide=html,shell)
 
